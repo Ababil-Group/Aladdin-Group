@@ -67,16 +67,16 @@ const ContactUs = () => {
           <Link className="flex items-center gap-2 hover:text-blue-400 text-gray-700 font-poppins transition-colors duration-200 cursor-pointer">
             <FaLocationDot className="" />
             <p className="font-poppins">
-              23 Basedale Road, Dagenham, Essex RM9 4QA
+              23 Basedale Road, Dagenham, Essex, RM9 4QA, UK
             </p>
           </Link>
           <Link className="flex items-center gap-2 hover:text-blue-400 text-gray-700 font-poppins transition-colors duration-200 cursor-pointer">
             <FaPhoneVolume className="rotate-42 " />
-            <p className="font-poppins">+44 7943 642473 (UK Office)</p>
+            <p className="font-poppins">+4407459610723</p>
           </Link>
           <Link className="flex items-center gap-2 hover:text-blue-400 text-gray-700 font-poppins transition-colors duration-200 cursor-pointer">
-            <RiWhatsappFill />
-            <p className="font-poppins">WhatsApp: +44 7943 642473</p>
+            <FaPhoneVolume className="rotate-42 " />
+            <p className="font-poppins">+4407943642473</p>
           </Link>
           <a
             href="mailto:contact@aladdingroup.online"

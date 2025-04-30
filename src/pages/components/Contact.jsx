@@ -64,6 +64,7 @@ const Contact = () => {
                   className="focus:outline-none w-20 text-gray-600"
                 >
                   <option>Country Code*</option>
+                  <option value="+44">+44</option>
                   <option value="+88">+88</option>
                   <option value="+66">+66</option>
                   <option value="+22">+22</option>

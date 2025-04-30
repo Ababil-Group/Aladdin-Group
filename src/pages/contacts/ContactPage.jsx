@@ -196,16 +196,16 @@ const ContactPage = () => {
             Aladdin Group - UK AI Education Specialists
           </h2>
           <p className="text-gray-600 font-medium font-poppins text-lg">
-            23 Basedale Road, Dagenham, Essex RM9 4QA
+            23 Basedale Road, Dagenham, Essex, RM9 4QA, UK
           </p>
           <span className="flex items-center flex-wrap gap-2 text-blue-700">
             <span className="flex items-center gap-2">
               <FaPhoneVolume />
-              <a href="">+44 7943 642473 (UK Office)</a>
+              <a href="">+4407459610723</a>
             </span>
             <span className="flex items-center gap-2">
               <RiWhatsappFill />
-              <a href="">WhatsApp: +44 7943 642473</a>
+              <a href="">+4407943642473</a>
             </span>
             <span className="flex items-center gap-2">
               <IoMail />
@@ -225,7 +225,7 @@ const ContactPage = () => {
             </div>
 
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.5493329776236!2d0.1112662766220392!3d51.539825271820774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a5c1178c22d3%3A0x313e56236536d8b9!2s23%20Basedale%20Rd%2C%20Dagenham%20RM9%204QA%2C%20UK!5e0!3m2!1sen!2sbd!4v1745900339770!5m2!1sen!2sbd"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.549151046214!2d0.11126627645181462!3d51.53982860833415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a5c1178c22d3%3A0x313e56236536d8b9!2s23%20Basedale%20Rd%2C%20Dagenham%20RM9%204QA%2C%20UK!5e0!3m2!1sen!2sbd!4v1746016415495!5m2!1sen!2sbd"
               style={{
                 border: "5px solid #a9aaac",
                 borderRadius: "6px",

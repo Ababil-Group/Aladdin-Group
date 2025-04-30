@@ -88,10 +88,11 @@ const ContactModel = ({ setContactOpen }) => {
                 className="focus:outline-none w-42 text-gray-600"
               >
                 <option>Country Code</option>
-                <option value="91">+91</option>
-                <option value="92">+92</option>
-                <option value="88">+88</option>
-                <option value="86">+86</option>
+                <option value="+44">+44</option>
+                <option value="+91">+91</option>
+                <option value="+92">+92</option>
+                <option value="+88">+88</option>
+                <option value="+86">+86</option>
               </select>
               <input
                 type="number"
